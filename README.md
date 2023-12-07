@@ -1,7 +1,7 @@
-🎓 Cursando Sistemas de informação na faculdade IBMR.
+🎓 Currently studying Information Systems at IBMR College.
 
-🚀 Focado atualmente em desenvolver aplicações mobile, utilizando java e kotlin.
+🚀 Currently focused on developing mobile applications, using Java and Kotlin.
 
-🎮 Gosto muito de fazer atividades físicas.
+🎮 I really enjoy engaging in physical activities.
 
-⚽ Apaixonado por futebol.
+⚽ Passionate about soccer.
